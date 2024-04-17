@@ -1,0 +1,4 @@
+.backgroud-city {
+  background: url("../images/backgroud-2.jpg") repeat-x center bottom;
+  background-size: contain;
+}
